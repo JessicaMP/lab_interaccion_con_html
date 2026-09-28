@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+  color: green;
+}
+
+.azul {
+  color: blue;
+}
+
+#rojo {
+  color: red;
+}

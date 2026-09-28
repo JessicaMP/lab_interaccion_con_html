@@ -1,0 +1,1 @@
+const gallery = ["E- Elephan.jpg","F - Frog.jpg","G - Grass.jpg","H - Horse.jpg","I - Ice.jpg","I - Iguana.jpg","J - Jellyfish.jpg","J - Jewelry.jpg","K - Kangaroo.jpg","L - Lion.jpg","L - Lunch.jpg","M - Money.jpg","M - mouse.jpg","N - Newspaper.jpg","U - Umbrella.jpg","V - vegetable.jpg","W - Waves.jpg","X - Xbox.jpg","Z - Zebra.jpg","a-appa.jpg","b-beans.jpg"];
